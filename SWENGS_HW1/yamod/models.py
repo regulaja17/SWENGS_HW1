@@ -7,6 +7,8 @@ class Student(models.Model):
         ("bau", "Bauingenieurswesen")
     )
 
+    # TEST
+
     first_name = models.TextField()
     last_name = models.TextField()
     birthdate = models.DateField()
