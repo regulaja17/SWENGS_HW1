@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59b1fb64-6b1c-44b0-a293-dbe6375370df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SWENGS_HW1/yamod/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SWENGS_HW1/yamod/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SWENGS_HW1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SWENGS_HW1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swengs_h1.postman_collection.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWENGS_HW1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWENGS_HW1/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWENGS_HW1/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWENGS_HW1/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWENGS_HW1/yamod/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWENGS_HW1/yamod/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWENGS_HW1/yamod/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWENGS_HW1/yamod/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SWENGS_HW1/yamod/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/SWENGS_HW1/yamod/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
