@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'SWENGS_HW1.yamod'
+    'SWENGS_HW1.yamod',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
